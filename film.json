@@ -1,51 +1,43 @@
 {
-  "Titre": {
-    "Les Minions",
-    "Fight Club",
-    "Jurassic Park"
-  },
-  "Directeur": {
-    "Kyle Balda, Pierre Coffin",
-    "David Fincher",
-    "Steven Spielberg"
-  },
-  "Auteur": {
-    "Brian Lynch",
-    "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
-    "Michael Crichton (novel), Michael Crichton (screenplay)"
-  },
-  "Date": {
-    "2015",
-    "1999",
-    "1993"
-  },
-    
-  "Description": {
-    "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
-    "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
-    "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
-  },
-  
-  "Budget": {
-    "$74,000,000",
-    "$63,000,000",
-    "$63,000,000"
-  },
-  "Ouverture": {
-    "$115,718,405, 12 Juillet 2015",
-    "$11,035,485, 17 October 1999",
-    "$47,026,828, 13 June 1993"
-  },
-  "TotalUSA": {
-    "$336,045,770",
-    "$37,030,102",
-    "$404,214,720"
-  },
-  "Total": {
-    "$1,159,443,203",
-    "$101,218,804",
-    "$1,033,862,494"
-  },
+  "Films": [
+    {
+      "Titre": "Les Minions",
+      "Directeur": "Kyle Balda, Pierre Coffin",
+      "Auteur": "Brian Lynch",
+      "Date": "2015",
+      "Description": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "Budget": "$74,000,000",
+      "Ouverture": "$115,718,405, 12 Juillet 2015",
+      "TotalUSA": "$336,045,770",
+      "Total": "$1,159,443,203"
+    },
+    {
+      "Titre": "Fight Club",
+      "Directeur": "David Fincher",
+      "Auteur": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+      "Date": "1999",
+      "Description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "Budget": "$63,000,000",
+      "Ouverture": "$11,035,485, 17 Octobre 1999",
+      "TotalUSA": "$37,030,102",
+      "Total": "$101,218,804"
+    },
+    {
+      "Titre": "Jurassic Park",
+      "Directeur": "Steven Spielberg",
+      "Auteur": "Michael Crichton (novel), Michael Crichton (screenplay)",
+      "Date": "1993",
+      "Description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "Budget": "$63,000,000",
+      "Ouverture": "$47,026,828, 13 Juin 1993",
+      "TotalUSA": "$404,214,720",
+      "Total": "$1,033,862,494"
+    }
+   ],
+
+
+
+
   "Vedette": [
     {
       "Nom": "Sandra Bullock",
